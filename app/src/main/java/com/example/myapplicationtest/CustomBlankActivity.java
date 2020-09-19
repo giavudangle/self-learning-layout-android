@@ -24,6 +24,8 @@ public class CustomBlankActivity extends AppCompatActivity {
 
     }
 
+//    comme
+
     @Override
     protected void onStart() {
         super.onStart();

@@ -14,7 +14,7 @@
         android:background="@color/colorPrimary"
         android:gravity="center|left|bottom"
         android:text="Button"
-        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="193dp" />
     <Button
         android:id="@+id/button5"
