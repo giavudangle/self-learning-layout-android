@@ -4,18 +4,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <Button
-        android:id="@+id/btnClick2"
-        android:layout_width="216dp"
-        android:layout_height="110dp"
-        android:layout_gravity="top|right"
+        android:id="@+id/btnClicck"
+        android:layout_width="406dp"
+        android:layout_height="400dp"
+
+        android:background="#33DEFF"
         android:text="CLICK" />
     <Button
         android:id="@+id/btnClick"
         android:layout_width="306dp"
         android:layout_height="300dp"
-        android:layout_gravity="center|right"
-        android:layout_marginTop="-30dp"
         android:text="CLICK" />
 </FrameLayout>
 
+    <!--Framelayout là dạng layout cơ bản nhất khi gắn các view
+    lên layout này thì nó sẽ luôn giữ các view này ở phía góc trái
+    màn hình và không cho chúng ta thay đồi vị trí của chúng,
+    các view đưa vào sau sẽ đè lên view ở trước trừ khi bạn thiết
+    lập transparent cho view sau đó. -->
 

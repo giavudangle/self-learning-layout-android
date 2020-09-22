@@ -85,12 +85,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
+                android:padding="0dp"
                 android:text="6"
+
                 android:background="#2ce"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:text="7"
+                android:paddingTop="90dp"
                 android:layout_weight="2"
                 android:background="#2cfece"/>
         </LinearLayout>
@@ -106,6 +109,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="2"
                 android:background="#EEF1"
+                android:layout_marginTop="50dp"
                 android:text="8"/>
             <Button
                 android:layout_width="match_parent"
