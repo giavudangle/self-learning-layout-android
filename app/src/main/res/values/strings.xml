@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Vudang</string>
+    <string name="hello">HELLO</string>
+    <string name="edit">Edit</string>
 </resources>
